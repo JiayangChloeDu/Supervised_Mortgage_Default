@@ -1,2 +1,2 @@
-# Supervised_Mortgage_Default
-Applies multiple supervised ML algorithms
+# Supervised Learning: Mortgage Default Risk
+This project employs supervised learning to analyze mortgage default risk, leveraging a diverse toolkit that includes tree-based algorithms, Gradient Boosting Machines (GBM), Generalized Linear Models (GLM), Automated Machine Learning (AutoML), and H2O framework. Through meticulous feature engineering, parameter tuning, ensemble methods, and rigorous model evaluation, I aim to refine the predictive accuracy. Additionally, I've incorporated SHAP values to delve into pre-selected features, enhancing the understanding of their influence on model outcomes and providing deeper insights into the factors driving mortgage default risk. This comprehensive approach allows for a nuanced analysis and more informed decision-making in mortgage lending.
